@@ -1,0 +1,49 @@
+{
+  "alunos": [
+    {
+      "id": 1,
+      "name": "Jackson",
+      "idade": 20
+    },
+    {
+      "id": 2,
+      "name": "Luana",
+      "idade": 18
+    },
+    {
+      "id": 3,
+      "name": "Junior",
+      "idade": 17
+    },
+    {
+      "id": 4,
+      "name": "Kelly",
+      "idade": 19
+    },
+    {
+      "nome": "caio",
+      "idade": "28",
+      "id": 5
+    },
+    {
+      "nome": "ddd",
+      "idade": "2344",
+      "id": 6
+    },
+    {
+      "nome": "Augusto",
+      "idade": "12",
+      "id": 7
+    },
+    {
+      "nome": "arthur",
+      "idade": "1222",
+      "id": 8
+    },
+    {
+      "nome": "uaua",
+      "idade": "123",
+      "id": 9
+    }
+  ]
+}
